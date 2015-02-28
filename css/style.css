@@ -866,6 +866,7 @@
 	font-size: 1em;
 	box-shadow: inset 0 0 0.25em 0 rgba(0,0,0,0.125);
 	line-height: .8em;
+	margin-top: 5px;
 }	
 
 .activepage a {
